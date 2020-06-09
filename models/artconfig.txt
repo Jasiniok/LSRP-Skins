@@ -1,117 +1,279 @@
+// Civilians
+    // Males 
+        // White
+            AddCharModel(299, 20001, "amydrug.dff", "amydrug.txd");
+            AddCharModel(299, 20002, "hmciv.dff", "hmciv.txd");
+            AddCharModel(299, 20003, "lapdpd2.dff", "lapdpd2.txd");
+            AddCharModel(299, 20004, "lvpdc2.dff", "lvpdc2.txd");
+            AddCharModel(299, 20005, "maciv1.dff", "maciv1.txd");
+            AddCharModel(299, 20006, "mwacer.dff", "mwacer.txd");
+            AddCharModel(299, 20007, "wmbch.dff", "wmbch.txd");
+            AddCharModel(299, 20008, "wmbeach.dff", "wmbeach.txd");
+            AddCharModel(299, 20009, "wmciv2.dff", "wmciv2.txd");
+            AddCharModel(299, 20010, "wmciv3.dff", "wmciv3.txd");
+            AddCharModel(299, 20011, "wmciv4.dff", "wmciv4.txd");
+            AddCharModel(299, 20012, "wmciv5.dff", "wmciv5.txd");
+            AddCharModel(299, 20013, "wmyfur.dff", "wmyfur.txd");
+            AddCharModel(299, 20014, "wmyhood.dff", "wmyhood.txd");
+        // Black
+            AddCharModel(299, 21001, "bdup.dff", "bdup.txd");
+            AddCharModel(299, 21002, "bmciv1.dff", "bmciv1.txd");
+            AddCharModel(299, 21003, "bmciv2.dff", "bmciv2.txd");
+            AddCharModel(299, 21004, "bmgng1.dff", "bmgng1.txd");
+            AddCharModel(299, 21005, "bmopriest.dff", "bmopriest.txd");
+            AddCharModel(299, 21006, "bmpretty1.dff", "bmpretty1.txd");
+            AddCharModel(299, 21007, "bmyjg.dff", "bmyjg.txd");
+            AddCharModel(299, 21008, "mbbam1.dff", "mbbam1.txd");
+            AddCharModel(299, 21009, "mbciv11.dff", "mbciv11.txd");
+            AddCharModel(299, 21010, "mbdrg1.dff", "mbdrg1.txd");
+            AddCharModel(299, 21011, "mbgng3.dff", "mbgng3.txd");
+        //Hispanic
+            AddCharModel(299, 22001, "hmciv2.dff", "hmciv2.txd");
+            AddCharModel(299, 22002, "hmciv3.dff", "hmciv3.txd");
+            AddCharModel(299, 22003, "hmyec.dff", "hmyec.txd");
+            AddCharModel(299, 22004, "hmyec2.dff", "hmyec2.txd");
+            AddCharModel(299, 22005, "hmyec3.dff", "hmyec3.txd");
+            AddCharModel(299, 22006, "hmyec4.dff", "hmyec4.txd");
+            AddCharModel(299, 22007, "hmyec5.dff", "hmyec5.txd");
+            AddCharModel(299, 22008, "hmyec6.dff", "hmyec6.txd");
+            AddCharModel(299, 22009, "hmyec7.dff", "hmyec7.txd");
+            AddCharModel(299, 22009, "mldrg1.dff", "mldrg1.txd");
+            AddCharModel(299, 22010, "mldrg2.dff", "mldrg2.txd");
+            AddCharModel(299, 22011, "mhbam2.dff", "mhbam2.txd");
+            AddCharModel(299, 22012, "mlgng1.dff", "mlgng1.txd");
+ 
+    // Females
+        // Whites
+            AddCharModel(93, 20051, "afybch.dff", "afybch.txd");
+            AddCharModel(93, 20052, "afybu.dff", "afybu.txd");
+            AddCharModel(93, 20053, "afybu2.dff", "afybu2.txd");
+            AddCharModel(93, 20054, "afydj.dff", "afydj.txd");
+            AddCharModel(93, 20055, "faciv1.dff", "faciv1.txd");
+            AddCharModel(93, 20056, "faciv2.dff", "faciv2.txd");
+            AddCharModel(93, 20057, "faciv3.dff", "faciv3.txd");
+            AddCharModel(93, 20058, "fwciv1.dff", "fwciv1.txd");
+            AddCharModel(93, 20059, "fwciv2.dff", "fwciv2.txd");
+            AddCharModel(93, 20060, "fwciv3.dff", "fwciv3.txd");
+            AddCharModel(93, 20061, "fwciv4.dff", "fwciv4.txd");
+            AddCharModel(93, 20062, "fwciv5.dff", "fwciv5.txd");
+            AddCharModel(93, 20063, "fwciv7.dff", "fwciv7.txd");
+            AddCharModel(93, 20064, "fwciv8.dff", "fwciv8.txd");
+            AddCharModel(93, 20065, "fwciv9.dff", "fwciv9.txd");
+            AddCharModel(93, 20066, "fwciv10.dff", "fwciv10.txd");
+            AddCharModel(93, 20066, "fwciv11.dff", "fwciv11.txd");
+            AddCharModel(93, 20067, "megal2.dff", "megal2.txd");
+            AddCharModel(93, 20068, "shfyst.dff", "shfyst.txd");
+            AddCharModel(93, 20069, "wfybd.dff", "wfybd.txd");
+            AddCharModel(93, 20070, "wfydsh.dff", "wfydsh.txd");
+            AddCharModel(93, 20071, "wfygr.dff", "wfygr.txd");
+            AddCharModel(93, 20072, "wfygt.dff", "wfygt.txd");
+            AddCharModel(93, 20073, "wfygt2.dff", "wfygt2.txd");
+            AddCharModel(93, 20074, "wfyjckt.dff", "wfyjckt.txd");
+            AddCharModel(93, 20075, "wfyob.dff", "wfyob.txd");
+            AddCharModel(93, 20076, "wfypo.dff", "wfypo.txd");
+            AddCharModel(93, 20077, "wfyshirt.dff", "wfyshirt.txd");
+        // Blacks
+            AddCharModel(93, 21051, "bfsan1.dff", "bfsan1.txd");
+            AddCharModel(93, 21052, "bfycrop.dff", "bfycrop.txd");
+            AddCharModel(93, 21053, "fbciv1.dff", "fbciv1.txd");
+            AddCharModel(93, 21054, "fbciv2.dff", "fbciv2.txd");
+            AddCharModel(93, 21055, "fbciv3.dff", "fbciv3.txd");
+            AddCharModel(93, 21056, "fbciv4.dff", "fbciv4.txd");
+            AddCharModel(93, 21057, "fbciv5.dff", "fbciv5.txd");
+            AddCharModel(93, 21058, "fbgng1.dff", "fbgng1.txd");
+        // Hispanic
+            AddCharModel(93, 22051, "fhciv1.dff", "fhciv1.txd");
+            AddCharModel(93, 22052, "fhgng1.dff", "fhgng1.txd");
+            AddCharModel(93, 22053, "fhgng2.dff", "fhgng2.txd");
+            AddCharModel(93, 22054, "hfycrp.dff", "hfycrp.txd");
+            AddCharModel(93, 22055, "hfyja.dff", "hfyja.txd");
+            AddCharModel(93, 22056, "hfyjp.dff", "hfyjp.txd");
+            AddCharModel(93, 22057, "hfyyoga.dff", "hfyyoga.txd");
+
+    // Suits
+        // Whites
+            AddCharModel(240, 20101, "bmysu.dff", "bmysu.txd");
+            AddCharModel(240, 20102, "lapd1f.dff", ".txd");
+            AddCharModel(240, 20103, "wmysm1.dff", "wmysm1.txd");
+            AddCharModel(240, 20104, "wmysm2.dff", "wmysm2.txd");
+            AddCharModel(240, 20105, "wmysm3.dff", "wmysm3.txd");
+            AddCharModel(240, 20106, "wmysm4.dff", "wmysm4.txd");
+            AddCharModel(240, 20107, "wmysm5.dff", "wmysm5.txd");
+            AddCharModel(240, 20108, "wmysu.dff", "wmysu.txd");
+            AddCharModel(304, 20109, "wmysuit.dff", "wmysuit2.txd");
+            AddCharModel(240, 20110, "wmysuit1.dff", "wmysuit1.txd");
+            AddCharModel(240, 20111, "wmysuit3.dff", "wmysuit3.txd");  
+        // Blacks
+            AddCharModel(240, 21101, "bmysuit.dff", "bmysuit.txd");
+            AddCharModel(240, 21102, "mbbiz1.dff", "mbbiz1.txd");
+            AddCharModel(240, 21103, "mwbiz1.dff", "mwbiz1.txd")
+            AddCharModel(240, 21104, "smoke1f.dff", "smoke1f.txd");;
+            AddCharModel(240, 21105, "wmybuf.dff", "wmybuf.txd");  
+        // Hispanic
+            AddCharModel(240, 22101, "hmysu.dff", "hmysu.txd");
+            AddCharModel(240, 22102, "hmysuit.dff", "hmysuit.txd");
+            AddCharModel(240, 22103, "hmysuit2.dff", "hmysuit2.txd");
+    
+    // Bikers
+        // Males
+            AddCharModel(299, 20201, "mwblackhoody.dff", "mwblackhoody.txd");
+            AddCharModel(299, 20202, "mwfatman.dff", "mwfatman.txd");
+            AddCharModel(299, 20203, "mwfatman2.dff", "mwfatman2.txd");
+            AddCharModel(299, 20204, "mwfatman3.dff", "mwfatman3.txd");
+            AddCharModel(299, 20205, "mwwkmc1.dff", "mwwkmc1.txd");
+            AddCharModel(299, 20206, "mwwkmc2.dff", "mwwkmc2.txd");
+            AddCharModel(299, 20207, "mwwkmc3.dff", "mwwkmc3.txd");
+            AddCharModel(299, 20208, "mwwkmc4.dff", "mwwkmc4.txd");
+            AddCharModel(299, 20209, "mwwkmc5.dff", "mwwkmc5.txd");
+            AddCharModel(299, 20210, "mwwkmc6.dff", "mwwkmc6.txd");
+            AddCharModel(299, 20211, "mwwkmc7.dff", "mwwkmc7.txd");
+            AddCharModel(299, 20212, "mwwkmc8.dff", "mwwkmc8.txd");
+        // Females
+            AddCharModel(93, 20251, "fwbiker1.dff", "fwbiker1.txd");
+
+    // Villagers
+        AddCharModel(299, 23001, "wmoldcountry2.dff", "wmoldcountry2.txd");
+        AddCharModel(299, 23002, "wmpunk.dff", "wmpunk.txd");
+        AddCharModel(299, 23003, "wmocountry.dff", "wmocountry.txd");
+        AddCharModel(299, 23004, "wmycountry.dff", "wmycountry.txd");
+
+    // Mobsters
+        AddCharModel(126, 24001, "mabam5.dff", "mabam5.txd");
+        AddCharModel(126, 24002, "mwbam3.dff", "mwbam3.txd");
+        AddCharModel(126, 24003, "mwbam4.dff", "mwbam4.txd");
+        AddCharModel(126, 24003, "wmciv.dff", "wmciv.txd");
+        AddCharModel(126, 24004, "wmomob.dff", "wmomob.txd");
+        AddCharModel(126, 24005, "wmomob1.dff", "wmomob1.txd");
+        AddCharModel(126, 24006, "mwray1.dff", "mwray1.txd");
+        AddCharModel(126, 24007, "mwray5.dff", "mwray5.txd");
+        AddCharModel(126, 24008, "mwsuit.dff", "mwsuit.txd");
+        AddCharModel(126, 24009, "wmybomber.dff", "wmybomber.txd");
+        AddCharModel(126, 24010, "wmymob1.dff", "wmymob1.txd");
+        AddCharModel(126, 24011, "wmymob2.dff", "wmymob2.txd");
+        AddCharModel(126, 24012, "wmymob3.dff", "wmymob3.txd");
+        AddCharModel(126, 24013, "wmymob4.dff", "wmymob4.txd");
+    
+    
+// LSPD
+    // Males
+        AddCharModel(265, 25001, "bmopd1.dff", "bmopd1.txd");
+        AddCharModel(265, 25002, "bmypd1.dff", "bmypd1.txd");
+        AddCharModel(265, 25003, "bmypd2.dff", "bmypd2.txd");
+        AddCharModel(267, 25004, "hmopd1.dff", "hmopd1.txd");
+        AddCharModel(267, 25005, "hmypd1.dff", "hmypd1.txd");
+        AddCharModel(267, 25006, "hmypd2.dff", "hmypd2.txd");
+        AddCharModel(280, 25007, "omypd1.dff", "omypd1.txd");
+        AddCharModel(284, 25008, "pdbik1.dff", "pdbik1.txd");
+        AddCharModel(281, 25009, "wmopd1.dff", "wmopd1.txd");
+        AddCharModel(281, 25010, "wmypd1.dff", "wmypd1.txd");
+        AddCharModel(281, 25011, "wmypd2.dff", "wmypd2.txd");
+        AddCharModel(281, 25012, "wmysgt1.dff", "wmysgt1.txd");
+        AddCharModel(280, 25013, "amypd2.dff", "amypd2.txd");
+        AddCharModel(281, 25014, "hmosgt1.dff", "hmosgt1.txd");
+        AddCharModel(280, 25015, "wmypd3.dff", "wmypd3.txd");
+        AddCharModel(280, 25016, "wmypd4.dff", "wmypd4.txd");
+        AddCharModel(280, 25017, "wmypd5.dff", "wmypd5.txd");
+        AddCharModel(265, 25018, "bmyffp.dff", "bmyffp.txd");
+        AddCharModel(265, 25019, "bmypdlg.dff", "bmypdlg.txd");
+        AddCharModel(267, 25020, "hmypdlg.dff", "hmypdlg.txd");
+        AddCharModel(280, 25021, "wmypdlg1.dff", "wmypdlg1.txd");
+        AddCharModel(280, 25022, "wmypdlg2.dff", "wmypdlg2.txd");
+    // Females
+        AddCharModel(306, 25031, "bfypd1.dff", "bfypd1.txd");
+        AddCharModel(306, 25032, "ofypd1.dff", "ofypd1.txd");
+        AddCharModel(306, 25033, "wfypd1.dff", "wfypd1.txd");
+        AddCharModel(307, 25034, "wfysgt1.dff", "wfysgt1.txd");
+        AddCharModel(306, 25035, "wfyffp.dff", "wfyffp.txd");
+        AddCharModel(306, 25036, "wfypdlg.dff", "wfypdlg.txd");
+    // SWAT
+        AddCharModel(285, 25081, "wmyswat1.dff", "wmyswat1.txd");
+        AddCharModel(285, 25082, "wmyswat2.dff", "wmyswat2.txd");
+        AddCharModel(285, 25083, "wmyswat4.dff", "wmyswat4.txd");
+        AddCharModel(285, 25084, "bmyswat1.dff", "bmyswat1.txd");
+        AddCharModel(285, 25085, "bmyswat2.dff", "bmyswat2.txd");
+        AddCharModel(285, 25086, "hmyswat1.dff", "hmyswat1.txd");
+
 // Sheriffs
-    //SD Females
-	AddCharModel(309, 26021, "fasher.dff", "fasher.txd");
-	AddCharModel(309, 26022, "fbikesher.dff", "fbikesher.txd");
-	AddCharModel(309, 26023, "fbsher.dff", "fbsher.txd");
-	AddCharModel(309, 26024, "fwsher.dff", "fwsher.txd");
-    AddCharModel(309, 26025, "fwsdsgt.dff", "fwsdsgt.txd");
-    //SD Males
-	AddCharModel(282, 26001, "masher1.dff", "masher1.txd");
-	AddCharModel(282, 26002, "masher2.dff", "masher2.txd");
-	AddCharModel(282, 26003, "masher3.dff", "masher3.txd");
-	AddCharModel(284, 26004, "mbikesher.dff", "mbikesher.txd");
-	AddCharModel(282, 26005, "mbsher1.dff", "mbsher2.txd");
-	AddCharModel(282, 26006, "mbsher2.dff", "mbsher1.txd");
-	AddCharModel(282, 26007, "mhsher.dff", "mhsher.txd");
-	AddCharModel(310, 26008, "mwsgts.dff", "mwsgts.txd");
-	AddCharModel(282, 26009, "mwsher1.dff", "mwsher1.txd");
-	AddCharModel(282, 26010, "mwsher2.dff", "mwsher2.txd");
-	AddCharModel(282, 26011, "mwsher3.dff", "mwsher3.txd");
-	AddCharModel(282, 26012, "mwsher4.dff", "mwsher4.txd");
-	AddCharModel(310, 26013, "mbsdsgt.dff", "mbsdsgt.txd");
-	AddCharModel(310, 26014, "mhsdsgt.dff", "mhsdsgt.txd");
-    AddCharModel(282, 26015, "mbsher3.dff", "mbsher3.txd");
-    AddCharModel(282, 26016, "mhsher2.dff", "mhsher2.txd");
-    AddCharModel(282, 26017, "mwsher5.dff", "mwsher5.txd");
-    AddCharModel(282, 26018, "masher1.dff", "masher1.txd");
-
-    // SED & SEB
-    AddCharModel(285, 26051, "bmyswt1.dff", "bmyswt1.txd");
-    AddCharModel(285, 26052, "sdsed.dff", "sdsed.txd");
-    AddCharModel(285, 26053, "wmseb2.dff", "wmseb2.txd");
-    AddCharModel(285, 26054, "wmyswt3.dff", "wmyswt3.txd");
-    AddCharModel(285, 26055, "wmyswt4.dff", "wmyswt4.txd");
-    AddCharModel(285, 26056, "bmbdu1.dff", "bmbdu1.txd");
-    AddCharModel(285, 26057, "wfybdu1.dff", "wfybdu1.txd");
-
+    // Males
+        AddCharModel(282, 26001, "masher1.dff", "masher1.txd");
+        AddCharModel(282, 26002, "masher2.dff", "masher2.txd");
+        AddCharModel(282, 26003, "masher3.dff", "masher3.txd");
+        AddCharModel(284, 26004, "mbikesher.dff", "mbikesher.txd");
+        AddCharModel(282, 26005, "mbsher1.dff", "mbsher2.txd");
+        AddCharModel(282, 26006, "mbsher2.dff", "mbsher1.txd");
+        AddCharModel(282, 26007, "mhsher.dff", "mhsher.txd");
+        AddCharModel(310, 26008, "mwsgts.dff", "mwsgts.txd");
+        AddCharModel(282, 26009, "mwsher1.dff", "mwsher1.txd");
+        AddCharModel(282, 26010, "mwsher2.dff", "mwsher2.txd");
+        AddCharModel(282, 26011, "mwsher3.dff", "mwsher3.txd");
+        AddCharModel(282, 26012, "mwsher4.dff", "mwsher4.txd");
+        AddCharModel(310, 26013, "mbsdsgt.dff", "mbsdsgt.txd");
+        AddCharModel(310, 26014, "mhsdsgt.dff", "mhsdsgt.txd");
+        AddCharModel(282, 26015, "mbsher3.dff", "mbsher3.txd");
+        AddCharModel(282, 26016, "mhsher2.dff", "mhsher2.txd");
+        AddCharModel(282, 26017, "mwsher5.dff", "mwsher5.txd");
+        AddCharModel(282, 26018, "masher1.dff", "masher1.txd");
+    // Females
+        AddCharModel(309, 26031, "fasher.dff", "fasher.txd");
+        AddCharModel(309, 26032, "fbikesher.dff", "fbikesher.txd");
+        AddCharModel(309, 26033, "fbsher.dff", "fbsher.txd");
+        AddCharModel(309, 26034, "fwsher.dff", "fwsher.txd");
+        AddCharModel(309, 26035, "fwsdsgt.dff", "fwsdsgt.txd");
+    // SD & SEB
+        AddCharModel(285, 26081, "bmyswt1.dff", "bmyswt1.txd");
+        AddCharModel(285, 26082, "sdsed.dff", "sdsed.txd");
+        AddCharModel(285, 26083, "wmseb2.dff", "wmseb2.txd");
+        AddCharModel(285, 26084, "wmyswt3.dff", "wmyswt3.txd");
+        AddCharModel(285, 26085, "wmyswt4.dff", "wmyswt4.txd");
+        AddCharModel(285, 26086, "bmbdu1.dff", "bmbdu1.txd");
+        AddCharModel(285, 26087, "wfybdu1.dff", "wfybdu1.txd");
     // Pilot
-    AddCharModel(305, 26041, "wmyflight1.dff", "wmyflight1.txd");
+        AddCharModel(305, 26099, "wmyflight1.dff", "wmyflight1.txd");
 	
-
-    // LSPD
-    //PD Females
-    AddCharModel(306, 25025, "bfypd1.dff", "bfypd1.txd");
-    AddCharModel(306, 25026, "ofypd1.dff", "ofypd1.txd");
-    AddCharModel(306, 25027, "wfypd1.dff", "wfypd1.txd");
-    AddCharModel(307, 25028, "wfysgt1.dff", "wfysgt1.txd");
-    AddCharModel(306, 25029, "wfyffp.dff", "wfyffp.txd");
-    AddCharModel(306, 25030, "wfypdlg.dff", "wfypdlg.txd");
-    //PD Males
-    AddCharModel(265, 25001, "bmopd1.dff", "bmopd1.txd");
-    AddCharModel(265, 25002, "bmypd1.dff", "bmypd1.txd");
-    AddCharModel(265, 25003, "bmypd2.dff", "bmypd2.txd");
-    AddCharModel(267, 25004, "hmopd1.dff", "hmopd1.txd");
-    AddCharModel(267, 25005, "hmypd1.dff", "hmypd1.txd");
-    AddCharModel(267, 25006, "hmypd2.dff", "hmypd2.txd");
-    AddCharModel(280, 25007, "omypd1.dff", "omypd1.txd");
-    AddCharModel(284, 25008, "pdbik1.dff", "pdbik1.txd");
-    AddCharModel(281, 25009, "wmopd1.dff", "wmopd1.txd");
-    AddCharModel(281, 25010, "wmypd1.dff", "wmypd1.txd");
-    AddCharModel(281, 25011, "wmypd2.dff", "wmypd2.txd");
-    AddCharModel(281, 25012, "wmysgt1.dff", "wmysgt1.txd");
-    AddCharModel(280, 25013, "amypd2.dff", "amypd2.txd");
-    AddCharModel(281, 25014, "hmosgt1.dff", "hmosgt1.txd");
-    AddCharModel(280, 25015, "wmypd3.dff", "wmypd3.txd");
-    AddCharModel(280, 25016, "wmypd4.dff", "wmypd4.txd");
-    AddCharModel(280, 25017, "wmypd5.dff", "wmypd5.txd");
-    AddCharModel(265, 25018, "bmyffp.dff", "bmyffp.txd");
-    AddCharModel(265, 25019, "wmyffp.dff", "wmyffp.txd");
-    AddCharModel(265, 25020, "bmypdlg.dff", "bmypdlg.txd");
-    AddCharModel(267, 25021, "hmypdlg.dff", "hmypdlg.txd");
-    AddCharModel(280, 25022, "wmypdlg1.dff", "wmypdlg1.txd");
-    AddCharModel(280, 25023, "wmypdlg2.dff", "wmypdlg2.txd");
-    //PD SWAT
-    AddCharModel(285, 25050, "wmyswat1.dff", "wmyswat1.txd");
-    AddCharModel(285, 25051, "wmyswat2.dff", "wmyswat2.txd");
-    AddCharModel(285, 25052, "wmyswat4.dff", "wmyswat4.txd");
-    AddCharModel(285, 25053, "bmyswat1.dff", "bmyswat1.txd");
-    AddCharModel(285, 25054, "bmyswat2.dff", "bmyswat2.txd");
-    AddCharModel(285, 25050, "hmyswat1.dff", "hmyswat1.txd");
-
-
-    // Detectives & FBI
+// Detectives & FBI
     // PD
-    AddCharModel(304, 25031, "bmsan1.dff", "bmsan1.txd");
-    AddCharModel(304, 25032, "wmysuit2.dff", "wmysuit2.txd");
-    AddCharModel(93, 25033, "wfsan1.dff", "wfsan1.txd");
-    AddCharModel(304, 25034, "wmsan1.dff", "wmsan1.txd");
-    AddCharModel(304, 25035, "bmsan1.dff", "bmsan1.txd");
-    AddCharModel(304, 25036, "bmsan1.dff", "bmsan1.txd");
-    AddCharModel(304, 25037, "bmsan1.dff", "bmsan1.txd");
-    AddCharModel(304, 25038, "bmsan1.dff", "bmsan1.txd");
-    AddCharModel(304, 25039, "hmypdgss1.dff", "hmypdgss1.txd");
-    AddCharModel(304, 25040, "wmypdgss1.dff", "wmypdgss1.txd");
-    
+        AddCharModel(304, 25051, "bmsan1.dff", "bmsan1.txd");
+        AddCharModel(93, 25052, "wfsan1.dff", "wfsan1.txd");
+        AddCharModel(304, 25053, "wmsan1.dff", "wmsan1.txd");
+        AddCharModel(304, 25054, "wmsan2.dff", "wmsan2.txd");
+        AddCharModel(304, 25055, "wmsan3.dff", "wmsan3.txd");
+        AddCharModel(304, 25056, ".dff", ".txd");
+        AddCharModel(304, 25057, ".dff", ".txd");
+        AddCharModel(304, 25058, "bmsan1.dff", "bmsan1.txd");
+        AddCharModel(304, 25059, "hmypdgss1.dff", "hmypdgss1.txd");
+        AddCharModel(304, 25060, "wmypdgss1.dff", "wmypdgss1.txd");
     // SD, GET
-    AddCharModel(309, 26031, "wfsdget.dff", "wfsdget.txd");
-    AddCharModel(305, 26032, "wmsdget.dff", "wmsdget.txd");
-
+        AddCharModel(309, 26051, "wfsdget.dff", "wfsdget.txd");
+        AddCharModel(305, 26052, "wmsdget.dff", "wmsdget.txd");
     // FBI
-    AddCharModel(286, 27001, "fedsomyri.dff", "fedsomyri.txd");
-    AddCharModel(286, 27002, "fedlapd1.dff", "fedlapd1.txd");
-    AddCharModel(286, 27003, "fedwmybu.dff", "fedwmybu.txd");
-    AddCharModel(286, 27004, "fedbmybu.dff", "fedbmybu.txd");
-    AddCharModel(286, 27005, "suitlapd1.dff", "suitlapd1.txd");
-    AddCharModel(286, 27006, "suitsfpd1.dff", "suitsfpd1.txd");
-    AddCharModel(286, 27007, "hmyfbi2.dff", "hmyfbi2.txd");
-    AddCharModel(286, 27008, "wfysuit.dff", "wfysuit.txd");
-    
+        AddCharModel(286, 27001, "fedsomyri.dff", "fedsomyri.txd");
+        AddCharModel(286, 27002, "fedlapd1.dff", "fedlapd1.txd");
+        AddCharModel(286, 27003, "fedwmybu.dff", "fedwmybu.txd");
+        AddCharModel(286, 27004, "fedbmybu.dff", "fedbmybu.txd");
+        AddCharModel(286, 27005, "suitlapd1.dff", "suitlapd1.txd");
+        AddCharModel(286, 27006, "suitsfpd1.dff", "suitsfpd1.txd");
+        AddCharModel(286, 27007, "hmyfbi1.dff", "hmyfbi1.txd");
+        AddCharModel(286, 27008, "hmyfbi2.dff", "hmyfbi2.txd");
+        AddCharModel(286, 27009, "wfysuit.dff", "wfysuit.txd");
+        AddCharModel(304, 27010, "suitwmybu.dff", "suitwmybu.txd");
+        AddCharModel(304, 27011, "wmyfbi3.dff", "wmyfbi3.txd");
+        AddCharModel(304, 27012, "omyfbi1.dff", "omyfbi1.txd");
     // DOC
-    AddCharModel(71, 27051, "bmydcr1.dff", "bmydcr1.txd");
-    AddCharModel(71, 27052, "wmydcr1.dff", "wmydcr1.txd");
-    AddCharModel(71, 27053, "wmydcr2.dff", "wmydcr2.txd");
-    AddCharModel(71, 27054, "hmydcr1.dff", "hmydcr2.txd");
-    AddCharModel(71, 27055, "wmyparole.dff", "wmyparole.txd");
-    AddCharModel(71, 27061, "wfydcr1.dff", "wfydcr1.txd");
-    AddCharModel(71, 27062, "wfydcr2.dff", "wfydcr2.txd");
-    AddCharModel(71, 27063, "bfydcr1.dff", "bfydcr1.txd");
+        AddCharModel(71, 27051, "bmydcr1.dff", "bmydcr1.txd");
+        AddCharModel(71, 27052, "wmydcr1.dff", "wmydcr1.txd");
+        AddCharModel(71, 27053, "wmydcr2.dff", "wmydcr2.txd");
+        AddCharModel(71, 27054, "hmydcr1.dff", "hmydcr2.txd");
+        AddCharModel(71, 27055, "wmyparole.dff", "wmyparole.txd");
+        AddCharModel(71, 27061, "wfydcr1.dff", "wfydcr1.txd");
+        AddCharModel(71, 27062, "wfydcr2.dff", "wfydcr2.txd");
+        AddCharModel(71, 27063, "bfydcr1.dff", "bfydcr1.txd");
+
+// FD
+    AddCharModel(275, 28001, "wmycfo.dff", "wmycfo.txd");
+    AddCharModel(275, 28002, "wmyffp.dff", "wmyffp.txd");
+    AddCharModel(277, 28051, "bmyff.dff", "bmyff.txd");
+    AddCharModel(277, 28052, "bmyffl.dff", "bmyffl.txd");
+    AddCharModel(277, 28053, "wfyffl.dff", "wfyffl.txd");
+    AddCharModel(277, 28054, "wfyff.dff", "wfyff.txd");
+    AddCharModel(277, 28055, "wmyff.dff", "wmyff.txd");
+    AddCharModel(277, 28056, "wmyffl.dff", "wmyffl.txd");
